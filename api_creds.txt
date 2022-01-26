@@ -1,0 +1,3 @@
+Your-AMP_Third_Party_API_Client_ID
+Your-AMP_API_Key
+AMP_Cloud-NAM_or_EU_or_APJC
