@@ -37,10 +37,15 @@ NAM
 a) After successful run for AMP business account having duplicate UUID:
 
 +--------------------------------------+-----------+-----------------------------------------------------------+
+
 |                 UUID                 | # of dup. |                       Dup. Hostname                       |
+
 +--------------------------------------+-----------+-----------------------------------------------------------+
+
 | 0aexxxxx-bbxx-41xx-bbxx-7590b0cxxxxx |     2     | ['ABC-Windows-Test1', 'ABC-Windows-Test2']                |
+
 | c2axxxxx-57xx-4cxx-b0xx-c2fc7c7xxxxx |     3     | ['XYZ-Linux-Test1', 'XYZ-Linux-Test2', 'XYZ-Linux-Test3'] |
+
 +--------------------------------------+-----------+-----------------------------------------------------------+
 
 b) After successful run for AMP business account not having duplicate UUID:
