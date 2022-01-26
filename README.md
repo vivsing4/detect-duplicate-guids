@@ -34,6 +34,7 @@ NAM
 7) Once the script is executed, you should see a output.txt file generated in the same folder.
 
 8) Content on output.txt can be as follows:
+
 a) After successful run for AMP business account having duplicate UUID:
 
 +--------------------------------------+-----------+-----------------------------------------------------------+
