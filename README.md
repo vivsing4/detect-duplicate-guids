@@ -35,6 +35,7 @@ NAM
 
 8) Content on output.txt can be as follows:
 a) After successful run for AMP business account having duplicate UUID:
+
 +--------------------------------------+-----------+-----------------------------------------------------------+
 |                 UUID                 | # of dup. |                       Dup. Hostname                       |
 +--------------------------------------+-----------+-----------------------------------------------------------+
